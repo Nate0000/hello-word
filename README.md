@@ -1,3 +1,3 @@
 # hello-word
 
-hello, life is good.
+life is bad 
